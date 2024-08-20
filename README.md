@@ -1,7 +1,7 @@
 # Oiê, eu sou a Naiane Miranda 🦋
 
-Tenho 24 anos e estou em processo de transição para a área de desenvolvimento de sistemas. 
-No momento, possuo conhecimento das seguintes tecnologias:
+Tenho 25 anos, Sou uma alma curiosa e criativa em busca e trabalho como produtora de conteúdos com experiência principalmente nos nichos de mecânica e tecnologia. 
+No momento, possuo conhecimento das seguintes tecnologias, que utilizo em projetos pessoais:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)

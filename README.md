@@ -1,6 +1,6 @@
 # Oiê, eu sou a Naiane Miranda 🦋
 
-Tenho 25 anos, Sou uma alma curiosa e criativa em busca e trabalho como produtora de conteúdos com experiência principalmente nos nichos de mecânica e tecnologia. 
+Tenho 25 anos, Sou uma alma curiosa e criativa que atua profissionalmente como produtora de conteúdos, com experiência principalmente nos nichos de mecânica e tecnologia. 
 No momento, possuo conhecimento das seguintes tecnologias, que utilizo em projetos pessoais:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

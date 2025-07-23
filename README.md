@@ -1,7 +1,8 @@
 # Oiê, eu sou a Naiane Miranda 🦋
 
-Tenho 25 anos, Sou uma alma curiosa e criativa que atua profissionalmente como produtora de conteúdos, com experiência principalmente nos nichos de mecânica e tecnologia. 
-No momento, possuo conhecimento das seguintes tecnologias, que utilizo em projetos pessoais:
+Tenho 26 anos. Sou uma alma curiosa e criativa que atua profissionalmente como estrategista de conteúdos e ghostwriter, com experiência principalmente nos nichos de mecânica e tecnologia (inclusive, se quiser dar um up no seu Linkedin, só chamar!). Além disso, também atuo como instrutora de TI para jovens e adultos em um projeto social de informática chamado DaxCode.
+
+No momento, possuo conhecimento das seguintes tecnologias, que utilizo em projetos pessoais e nas minhas aulas:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)

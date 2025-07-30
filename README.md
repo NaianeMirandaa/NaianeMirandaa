@@ -1,7 +1,7 @@
 # Oiê, eu sou a Naiane Miranda 🦋
 
 Tenho 26 anos. Sou uma alma curiosa e criativa que atua profissionalmente como estrategista de conteúdos e ghostwriter, com experiência principalmente nos nichos de mecânica e tecnologia (inclusive, se quiser dar um up no seu Linkedin, só chamar!). 
-Além disso, também sou instrutora de TI para jovens e adultos em um projeto social de informática chamado DaxCode.
+Além disso, também sou instrutora de TI para jovens e adultos em um projeto social de desenvolvimento de software, chamado DaxCode.
 
 No momento, possuo conhecimento das seguintes tecnologias, que utilizo em projetos pessoais e nas minhas aulas:
 
